@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1427137299 source:/home/richardtrochez/Escritorio/Pr1/main.cpp
+	<iostream>
+	<SFML/Graphics.hpp>
+	<stack>
+
+1427343846 source:/home/richardtrochez/Escritorio/Proyecto1 A/main.cpp
+	<iostream>
+	<SFML/Graphics.hpp>
+	<stack>
+
